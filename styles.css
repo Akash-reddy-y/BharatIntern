@@ -62,15 +62,6 @@ a:hover {
     text-decoration: underline;
 }
 
-.profile-photo {
-    width: 100px; /* Adjust the width as needed */
-    height: 100px; /* Adjust the height as needed */
-    border-radius: 50%; /* Make the image circular */
-    margin: 20px auto;
-    display: block;
-    animation: fadeIn 1s;
-}
-
 /* Animations */
 .animated {
     animation-duration: 1s;
